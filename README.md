@@ -42,7 +42,7 @@ We follow TextGCD (https://github.com/HaiyangZheng/TextGCD) to generate the cand
 we acknowledge their great contribution for the multi-modal GCD community.
 
 ## Remark
-Additionally, we remove prompts corresponding to **UNKNOWN** categories in the {CUB, Flowers102, Oxford Pets, Stanford Cars} datasets from the candidate pool, as these prompts may lead to semantic leakage (see the deduplicated lexicon in "./Lexicon/Lexicon_tags_deduplicated.csv", prompts from 137 categories are removed).
+Additionally, we remove prompts corresponding to **UNKNOWN** categories in the {CUB, Flowers102, Oxford Pets, Stanford Cars} datasets from the candidate pool, as these prompts may lead to semantic leakage (see the deduplicated lexicon in "./Lexicon/Lexicon_tags_deduplicated.csv", prompts from 243 categories are removed).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
