@@ -1,0 +1,239 @@
+﻿imagenet_original,imagenet_normalized,dataset_name,dataset_full_class,dataset_core_class
+a photo of a Blackburnian Warbler,blackburnian warbler,CUB-200,blackburnian warbler,blackburnian warbler
+a photo of a Blackpoll Warbler,blackpoll warbler,CUB-200,blackpoll warbler,blackpoll warbler
+a photo of a Black throated Blue Warbler,black throated blue warbler,CUB-200,black throated blue warbler,black throated blue warbler
+a photo of a Black throated Green Warbler,black throated green warbler,CUB-200,black throated green warbler,black throated green warbler
+a photo of a Blue winged Warbler,blue winged warbler,CUB-200,blue winged warbler,blue winged warbler
+a photo of a Canada Warbler,canada warbler,CUB-200,canada warbler,canada warbler
+a photo of a Cape May Warbler,cape may warbler,CUB-200,cape may warbler,cape may warbler
+a photo of a Cerulean Warbler,cerulean warbler,CUB-200,cerulean warbler,cerulean warbler
+a photo of a Chestnut sided Warbler,chestnut sided warbler,CUB-200,chestnut sided warbler,chestnut sided warbler
+a photo of a Golden winged Warbler,golden winged warbler,CUB-200,golden winged warbler,golden winged warbler
+a photo of a Magnolia Warbler,magnolia warbler,CUB-200,magnolia warbler,magnolia warbler
+a photo of a Mourning Warbler,mourning warbler,CUB-200,mourning warbler,mourning warbler
+a photo of a Nashville Warbler,nashville warbler,CUB-200,nashville warbler,nashville warbler
+a photo of a Orange crowned Warbler,orange crowned warbler,CUB-200,orange crowned warbler,orange crowned warbler
+a photo of a Palm Warbler,palm warbler,CUB-200,palm warbler,palm warbler
+a photo of a Pine Warbler,pine warbler,CUB-200,pine warbler,pine warbler
+a photo of a Prairie Warbler,prairie warbler,CUB-200,prairie warbler,prairie warbler
+a photo of a Prothonotary Warbler,prothonotary warbler,CUB-200,prothonotary warbler,prothonotary warbler
+a photo of a Tennessee Warbler,tennessee warbler,CUB-200,tennessee warbler,tennessee warbler
+a photo of a Wilsons Warbler,wilsons warbler,CUB-200,wilsons warbler,wilsons warbler
+a photo of a Worm eating Warbler,worm eating warbler,CUB-200,worm eating warbler,worm eating warbler
+a photo of a Yellow Warbler,yellow warbler,CUB-200,yellow warbler,yellow warbler
+a photo of a Yellow breasted Chat,yellow breasted chat,CUB-200,yellow breasted chat,yellow breasted chat
+a photo of a Yellow rumped Warbler,yellow rumped warbler,CUB-200,yellow rumped warbler,yellow rumped warbler
+a photo of a Yellow throated Warbler,yellow throated warbler,CUB-200,yellow throated warbler,yellow throated warbler
+a photo of a American Bittern,american bittern,CUB-200,american bittern,american bittern
+a photo of a Great Blue Heron,great blue heron,CUB-200,great blue heron,great blue heron
+a photo of a Great Egret,great egret,CUB-200,great egret,great egret
+a photo of a Green heron,green heron,CUB-200,green heron,green heron
+a photo of a Little Blue Heron,little blue heron,CUB-200,little blue heron,little blue heron
+a photo of a Snowy Egret,snowy egret,CUB-200,snowy egret,snowy egret
+a photo of a Tricolored Heron,tricolored heron,CUB-200,tricolored heron,tricolored heron
+a photo of a Black crowned Night Heron,black crowned night heron,CUB-200,black crowned night heron,black crowned night heron
+a photo of a Yellow crowned Night Heron,yellow crowned night heron,CUB-200,yellow crowned night heron,yellow crowned night heron
+a photo of a American White Pelican,american white pelican,CUB-200,american white pelican,american white pelican
+a photo of a Brown Pelican,brown pelican,CUB-200,brown pelican,brown pelican
+a photo of a Double crested Cormorant,double crested cormorant,CUB-200,double crested cormorant,double crested cormorant
+a photo of a Neotropic Cormorant,neotropic cormorant,CUB-200,neotropic cormorant,neotropic cormorant
+a photo of a Anhinga,anhinga,CUB-200,anhinga,anhinga
+a photo of a Red footed booby,red footed booby,CUB-200,red footed booby,red footed booby
+a photo of a Northern Gannet,northern gannet,CUB-200,northern gannet,northern gannet
+a photo of a Great Cormorant,great cormorant,CUB-200,great cormorant,great cormorant
+a photo of a White Ibis,white ibis,CUB-200,white ibis,white ibis
+a photo of a Glossy Ibis,glossy ibis,CUB-200,glossy ibis,glossy ibis
+a photo of a White faced Ibis,white faced ibis,CUB-200,white faced ibis,white faced ibis
+a photo of a Wood Stork,wood stork,CUB-200,wood stork,wood stork
+a photo of a Black Vulture,black vulture,CUB-200,black vulture,black vulture
+a photo of a Turkey Vulture,turkey vulture,CUB-200,turkey vulture,turkey vulture
+a photo of a Osprey,osprey,CUB-200,osprey,osprey
+a photo of a Bald Eagle,bald eagle,CUB-200,bald eagle,bald eagle
+a photo of a Northern Harrier,northern harrier,CUB-200,northern harrier,northern harrier
+a photo of a Sharp shinned Hawk,sharp shinned hawk,CUB-200,sharp shinned hawk,sharp shinned hawk
+a photo of a Coopers Hawk,coopers hawk,CUB-200,coopers hawk,coopers hawk
+a photo of a Cooper's Hawk,coopers hawk,CUB-200,coopers hawk,coopers hawk
+a photo of a Northern Goshawk,northern goshawk,CUB-200,northern goshawk,northern goshawk
+a photo of a Red shouldered Hawk,red shouldered hawk,CUB-200,red shouldered hawk,red shouldered hawk
+a photo of a Red tailed Hawk,red tailed hawk,CUB-200,red tailed hawk,red tailed hawk
+a photo of a Broad winged Hawk,broad winged hawk,CUB-200,broad winged hawk,broad winged hawk
+a photo of a Swainsons Hawk,swainsons hawk,CUB-200,swainsons hawk,swainsons hawk
+a photo of a Ferruginous Hawk,ferruginous hawk,CUB-200,ferruginous hawk,ferruginous hawk
+a photo of a Rough legged Hawk,rough legged hawk,CUB-200,rough legged hawk,rough legged hawk
+a photo of a Golden Eagle,golden eagle,CUB-200,golden eagle,golden eagle
+a photo of a American Kestrel,american kestrel,CUB-200,american kestrel,american kestrel
+a photo of a Merlin,merlin,CUB-200,merlin,merlin
+a photo of a Peregrine Falcon,peregrine falcon,CUB-200,peregrine falcon,peregrine falcon
+a photo of a Prairie Falcon,prairie falcon,CUB-200,prairie falcon,prairie falcon
+a photo of a Ring necked Pheasant,ring necked pheasant,CUB-200,ring necked pheasant,ring necked pheasant
+a photo of a Greater Prairie Chicken,greater prairie chicken,CUB-200,greater prairie chicken,greater prairie chicken
+a photo of a Wild Turkey,wild turkey,CUB-200,wild turkey,wild turkey
+a photo of a Ruffed Grouse,ruffed grouse,CUB-200,ruffed grouse,ruffed grouse
+a photo of a Spruce Grouse,spruce grouse,CUB-200,spruce grouse,spruce grouse
+a photo of a Willow Ptarmigan,willow ptarmigan,CUB-200,willow ptarmigan,willow ptarmigan
+a photo of a Rock Ptarmigan,rock ptarmigan,CUB-200,rock ptarmigan,rock ptarmigan
+a photo of a White tailed Ptarmigan,white tailed ptarmigan,CUB-200,white tailed ptarmigan,white tailed ptarmigan
+a photo of a California Quail,california quail,CUB-200,california quail,california quail
+a photo of a Gambels Quail,gambels quail,CUB-200,gambels quail,gambels quail
+a photo of a Northern Bobwhite,northern bobwhite,CUB-200,northern bobwhite,northern bobwhite
+a photo of a Scaled Quail,scaled quail,CUB-200,scaled quail,scaled quail
+a photo of a Whooping crane,whooping crane,CUB-200,whooping crane,whooping crane
+a photo of a Sandhill Crane,sandhill crane,CUB-200,sandhill crane,sandhill crane
+a photo of a American Coot,american coot,CUB-200,american coot,american coot
+a photo of a Pied billed Grebe,pied billed grebe,CUB-200,pied billed grebe,pied billed grebe
+a photo of a Horned Grebe,horned grebe,CUB-200,horned grebe,horned grebe
+a photo of a Red necked Grebe,red necked grebe,CUB-200,red necked grebe,red necked grebe
+a photo of a Eared Grebe,eared grebe,CUB-200,eared grebe,eared grebe
+a photo of a Western Grebe,western grebe,CUB-200,western grebe,western grebe
+a photo of a Clarks Grebe,clarks grebe,CUB-200,clarks grebe,clarks grebe
+a photo of a White Pelican,white pelican,CUB-200,white pelican,white pelican
+a photo of a Brown Pelican,brown pelican,CUB-200,brown pelican,brown pelican
+a photo of a Double crested Cormorant,double crested cormorant,CUB-200,double crested cormorant,double crested cormorant
+a photo of a Brandts Cormorant,brandts cormorant,CUB-200,brandts cormorant,brandts cormorant
+a photo of a Anhinga,anhinga,CUB-200,anhinga,anhinga
+a photo of a Red footed booby,red footed booby,CUB-200,red footed booby,red footed booby
+a photo of a Blue footed booby,blue footed booby,CUB-200,blue footed booby,blue footed booby
+a photo of a Northern Gannet,northern gannet,CUB-200,northern gannet,northern gannet
+a photo of a colt's foot,colts foot,Flowers102,colts foot,colts foot
+a photo of a Daisy,daisy,Flowers102,daisy,daisy
+a photo of a dandelion,dandelion,Flowers102,dandelion,dandelion
+a photo of a fritillary,fritillary,Flowers102,fritillary,fritillary
+a photo of a garden phlox,garden phlox,Flowers102,garden phlox,garden phlox
+a photo of a geranium,geranium,Flowers102,geranium,geranium
+a photo of a giant white arum lily,giant white arum lily,Flowers102,giant white arum lily,giant white arum lily
+a photo of a globe thistle,globe thistle,Flowers102,globe thistle,globe thistle
+a photo of a Hawkweed,hawkweed,Flowers102,hawkweed,hawkweed
+a photo of a Hyacinth,hyacinth,Flowers102,hyacinth,hyacinth
+a photo of a Iris,iris,Flowers102,iris,iris
+a photo of a japanese anemone,japanese anemone,Flowers102,japanese anemone,japanese anemone
+a photo of a king protea,king protea,Flowers102,king protea,king protea
+a photo of a lenten rose,lenten rose,Flowers102,lenten rose,lenten rose
+a photo of a Lilac,lilac,Flowers102,lilac,lilac
+a photo of a Lily,lily,Flowers102,lily,lily
+a photo of a magnolia,magnolia,Flowers102,magnolia,magnolia
+a photo of a mallow,mallow,Flowers102,mallow,mallow
+a photo of a marigold,marigold,Flowers102,marigold,marigold
+a photo of a mexican aster,mexican aster,Flowers102,mexican aster,mexican aster
+a photo of a morning glory,morning glory,Flowers102,morning glory,morning glory
+a photo of a orchid,orchid,Flowers102,orchid,orchid
+a photo of a oxeye daisy,oxeye daisy,Flowers102,oxeye daisy,oxeye daisy
+a photo of a Pansy,pansy,Flowers102,pansy,pansy
+a photo of a Peony,peony,Flowers102,peony,peony
+a photo of a poinsettia,poinsettia,Flowers102,poinsettia,poinsettia
+a photo of a poppy,poppy,Flowers102,poppy,poppy
+a photo of a primula,primula,Flowers102,primula,primula
+a photo of a prince of wales feathers,prince of wales feathers,Flowers102,prince of wales feathers,prince of wales feathers
+a photo of a purple coneflower,purple coneflower,Flowers102,purple coneflower,purple coneflower
+a photo of a red ginger,red ginger,Flowers102,red ginger,red ginger
+a photo of a rose,rose,Flowers102,rose,rose
+a photo of a snapdragon,snapdragon,Flowers102,snapdragon,snapdragon
+a photo of a spear thistle,spear thistle,Flowers102,spear thistle,spear thistle
+a photo of a sunflower,sunflower,Flowers102,sunflower,sunflower
+a photo of a sweet pea,sweet pea,Flowers102,sweet pea,sweet pea
+a photo of a tiger lily,tiger lily,Flowers102,tiger lily,tiger lily
+a photo of a tulip,tulip,Flowers102,tulip,tulip
+a photo of a water lily,water lily,Flowers102,water lily,water lily
+a photo of a watercress,watercress,Flowers102,watercress,watercress
+a photo of a wild pansy,wild pansy,Flowers102,wild pansy,wild pansy
+a photo of a windflower,windflower,Flowers102,windflower,windflower
+a photo of a yellow iris,yellow iris,Flowers102,yellow iris,yellow iris
+a photo of a Newfoundland,newfoundland,Oxford Pets,newfoundland,newfoundland
+a photo of a Pomeranian,pomeranian,Oxford Pets,pomeranian,pomeranian
+a photo of a pug,pug,Oxford Pets,pug,pug
+a photo of a Rhodesian ridgeback,rhodesian ridgeback,Oxford Pets,rhodesian ridgeback,rhodesian ridgeback
+a photo of a Rottweiler,rottweiler,Oxford Pets,rottweiler,rottweiler
+a photo of a Samoyed,samoyed,Oxford Pets,samoyed,samoyed
+a photo of a Schipperke,schipperke,Oxford Pets,schipperke,schipperke
+a photo of a Scottish terrier,scottish terrier,Oxford Pets,scottish terrier,scottish terrier
+a photo of a Shiba inu,shiba inu,Oxford Pets,shiba inu,shiba inu
+a photo of a Shih tzu,shih tzu,Oxford Pets,shih tzu,shih tzu
+a photo of a Staffordshire bull terrier,staffordshire bull terrier,Oxford Pets,staffordshire bull terrier,staffordshire bull terrier
+a photo of a West highland white terrier,west highland white terrier,Oxford Pets,west highland white terrier,west highland white terrier
+a photo of a Abyssinian,abyssinian,Oxford Pets,abyssinian,abyssinian
+a photo of a Bengal,bengal,Oxford Pets,bengal,bengal
+a photo of a Birman,birman,Oxford Pets,birman,birman
+a photo of a Bombay,bombay,Oxford Pets,bombay,bombay
+a photo of a British shorthair,british shorthair,Oxford Pets,british shorthair,british shorthair
+a photo of a Ford taurus,ford taurus,Stanford Cars,2012 ford taurus,ford taurus
+a photo of a Dodge Viper,dodge viper,Stanford Cars,2012 dodge viper,dodge viper
+a photo of a Chevrolet corvette,chevrolet corvette,Stanford Cars,2012 chevrolet corvette,chevrolet corvette
+a photo of a Chevrolet camaro,chevrolet camaro,Stanford Cars,2012 chevrolet camaro,chevrolet camaro
+a photo of a Chevrolet impala,chevrolet impala,Stanford Cars,2012 chevrolet impala,chevrolet impala
+a photo of a Honda civic,honda civic,Stanford Cars,2012 honda civic,honda civic
+a photo of a Honda accord,honda accord,Stanford Cars,2012 honda accord,honda accord
+a photo of a Bmw 1 series ,bmw 1 series,Stanford Cars,2012 bmw 1 series,bmw 1 series
+a photo of a Honda fit,honda fit,Stanford Cars,2012 honda fit,honda fit
+a photo of a Cadillac escalade,cadillac escalade,Stanford Cars,2012 cadillac escalade,cadillac escalade
+a photo of a Jaguar xf,jaguar xf,Stanford Cars,2012 jaguar xf,jaguar xf
+a photo of a Ford focus,ford focus,Stanford Cars,2012 ford focus,ford focus
+a photo of a Bmw 5 series,bmw 5 series,Stanford Cars,2012 bmw 5 series,bmw 5 series
+a photo of a Bmw 3 series,bmw 3 series,Stanford Cars,2012 bmw 3 series,bmw 3 series
+a photo of a Audi a6,audi a6,Stanford Cars,2012 audi a6,audi a6
+a photo of a Audi tt,audi tt,Stanford Cars,2007 audi tt,audi tt
+a photo of a Hyundai genesis,hyundai genesis,Stanford Cars,2012 hyundai genesis,hyundai genesis
+a photo of a Dodge journey,dodge journey,Stanford Cars,2012 dodge journey,dodge journey
+a photo of a Hyundai veloster,hyundai veloster,Stanford Cars,2012 hyundai veloster,hyundai veloster
+a photo of a Bentley continental gt,bentley continental gt,Stanford Cars,2012 bentley continental gt,bentley continental gt
+a photo of a Bmw z4,bmw z4,Stanford Cars,2011 bmw z4,bmw z4
+a photo of a Audi a3,audi a3,Stanford Cars,2009 audi a3,audi a3
+a photo of a Lamborghini gallardo,lamborghini gallardo,Stanford Cars,2012 lamborghini gallardo,lamborghini gallardo
+a photo of a Bmw 7 series,bmw 7 series,Stanford Cars,2012 bmw 7 series,bmw 7 series
+a photo of a Bmw 6 series,bmw 6 series,Stanford Cars,2010 bmw 6 series,bmw 6 series
+a photo of a Audi a5,audi a5,Stanford Cars,2011 audi a5,audi a5
+a photo of a Lexus sc,lexus sc,Stanford Cars,2012 lexus sc,lexus sc
+a photo of a Dodge challenger,dodge challenger,Stanford Cars,2012 dodge challenger,dodge challenger
+a photo of a Jaguar xj,jaguar xj,Stanford Cars,2012 jaguar xj,jaguar xj
+a photo of a Lexus gs,lexus gs,Stanford Cars,2012 lexus gs,lexus gs
+a photo of a Chrysler 300,chrysler 300,Stanford Cars,2012 chrysler 300,chrysler 300
+a photo of a Buick regal,buick regal,Stanford Cars,2012 buick regal,buick regal
+a photo of a Lexus is,lexus is,Stanford Cars,2012 lexus is,lexus is
+a photo of a Cadillac cts,cadillac cts,Stanford Cars,2012 cadillac cts,cadillac cts
+a photo of a Gmc terrain,gmc terrain,Stanford Cars,2012 gmc terrain,gmc terrain
+a photo of a Buick lacrosse,buick lacrosse,Stanford Cars,2012 buick lacrosse,buick lacrosse
+a photo of a Chevrolet silverado,chevrolet silverado,Stanford Cars,2012 chevrolet silverado,chevrolet silverado
+a photo of a Dodge avenger,dodge avenger,Stanford Cars,2012 dodge avenger,dodge avenger
+a photo of a Bugatti veyron,bugatti veyron,Stanford Cars,2012 bugatti veyron,bugatti veyron
+a photo of a Bmw 3 series ,bmw 3 series,Stanford Cars,2012 bmw 3 series,bmw 3 series
+a photo of a Bmw 6 series ,bmw 6 series,Stanford Cars,2010 bmw 6 series,bmw 6 series
+a photo of a Bmw x5 ,bmw x5,Stanford Cars,2012 bmw x5,bmw x5
+a photo of a Jeep wrangler,jeep wrangler,Stanford Cars,2012 jeep wrangler,jeep wrangler
+a photo of a Cadillac sts,cadillac sts,Stanford Cars,2012 cadillac sts,cadillac sts
+a photo of a Chevrolet tahoe,chevrolet tahoe,Stanford Cars,2012 chevrolet tahoe,chevrolet tahoe
+a photo of a Ford expedition,ford expedition,Stanford Cars,2012 ford expedition,ford expedition
+a photo of a Bmw x5,bmw x5,Stanford Cars,2012 bmw x5,bmw x5
+a photo of a Lexus ls,lexus ls,Stanford Cars,2012 lexus ls,lexus ls
+a photo of a Dodge durango,dodge durango,Stanford Cars,2012 dodge durango,dodge durango
+a photo of a Audi q7,audi q7,Stanford Cars,2012 audi q7,audi q7
+a photo of a Hyundai tucson,hyundai tucson,Stanford Cars,2012 hyundai tucson,hyundai tucson
+a photo of a Kia sportage,kia sportage,Stanford Cars,2012 kia sportage,kia sportage
+a photo of a Chevrolet malibu,chevrolet malibu,Stanford Cars,2012 chevrolet malibu,chevrolet malibu
+a photo of a Ferrari california,ferrari california,Stanford Cars,2012 ferrari california,ferrari california
+a photo of a Jeep grand cherokee,jeep grand cherokee,Stanford Cars,2012 jeep grand cherokee,jeep grand cherokee
+a photo of a Honda ridgeline,honda ridgeline,Stanford Cars,2012 honda ridgeline,honda ridgeline
+a photo of a Hyundai elantra,hyundai elantra,Stanford Cars,2012 hyundai elantra,hyundai elantra
+a photo of a Chevrolet cruze,chevrolet cruze,Stanford Cars,2012 chevrolet cruze,chevrolet cruze
+a photo of a Honda pilot,honda pilot,Stanford Cars,2012 honda pilot,honda pilot
+a photo of a Cadillac srx,cadillac srx,Stanford Cars,2012 cadillac srx,cadillac srx
+a photo of a Lexus es,lexus es,Stanford Cars,2012 lexus es,lexus es
+a photo of a Hyundai sonata,hyundai sonata,Stanford Cars,2012 hyundai sonata,hyundai sonata
+a photo of a Gmc sierra,gmc sierra,Stanford Cars,2012 gmc sierra,gmc sierra
+a photo of a Bmw x3,bmw x3,Stanford Cars,2012 bmw x3,bmw x3
+a photo of a Chevrolet spark,chevrolet spark,Stanford Cars,2012 chevrolet spark,chevrolet spark
+a photo of a Kia optima,kia optima,Stanford Cars,2012 kia optima,kia optima
+a photo of a Kia sorento,kia sorento,Stanford Cars,2012 kia sorento,kia sorento
+a photo of a Hyundai santa fe,hyundai santa fe,Stanford Cars,2012 hyundai santa fe,hyundai santa fe
+a photo of a Lexus lx,lexus lx,Stanford Cars,2012 lexus lx,lexus lx
+a photo of a Lexus rx,lexus rx,Stanford Cars,2012 lexus rx,lexus rx
+a photo of a Bentley mulsanne,bentley mulsanne,Stanford Cars,2012 bentley mulsanne,bentley mulsanne
+a photo of a Ford fusion,ford fusion,Stanford Cars,2012 ford fusion,ford fusion
+a photo of a Chrysler town and country,chrysler town and country,Stanford Cars,2012 chrysler town and country,chrysler town and country
+a photo of a Ford edge,ford edge,Stanford Cars,2012 ford edge,ford edge
+a photo of a Gmc acadia,gmc acadia,Stanford Cars,2012 gmc acadia,gmc acadia
+a photo of a Dodge charger,dodge charger,Stanford Cars,2012 dodge charger,dodge charger
+a photo of a Buick enclave,buick enclave,Stanford Cars,2009 buick enclave,buick enclave
+a photo of a Chrysler 200,chrysler 200,Stanford Cars,2012 chrysler 200,chrysler 200
+a photo of a Buick verano,buick verano,Stanford Cars,2012 buick verano,buick verano
+a photo of a Lamborghini aventador,lamborghini aventador,Stanford Cars,2012 lamborghini aventador,lamborghini aventador
+a photo of a Honda odyssey,honda odyssey,Stanford Cars,2012 honda odyssey,honda odyssey
+a photo of a Chevrolet sonic,chevrolet sonic,Stanford Cars,2012 chevrolet sonic,chevrolet sonic
+a photo of a Ford mustang,ford mustang,Stanford Cars,2012 ford mustang,ford mustang
