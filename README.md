@@ -1,12 +1,15 @@
 # SSR<sup>2</sup>-GCD: Semi-Supervised Rate Reduction for Multimodal GCD
 <p align="center">
     <img src="https://img.shields.io/badge/CVPR-2026-blue.svg">
+    <a href="https://arxiv.org/abs/2602.19910"><img src="https://img.shields.io/badge/arXiv-2602.19910-red"></a>
 </p>
 
 "Multi-Modal Representation Learning via Semi-Supervised Rate Reduction for Generalized Category Discovery"
 
+
 <div align="center">
-  <img src="assets/arch_long.png" alt="framework" width="60%">
+  <img src="assets/arch_long.png" alt="framework" width="45%">
+  <img src="assets/overview_01.png" alt="framework" width="45%">
 </div>
 
 ## Abstract
